@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+I am Max and I am a certified vibe coder (until I learn to code properly)
+## I am learning 🌱
+The Solana CLI and it's Ecosystem, backend development and Web3 dApps!
+## I'm looking to collaborate on..
+- Web3
+- Solana
+> related things
 
 <!--
 **Maxwell317898/Maxwell317898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
