@@ -1,10 +1,13 @@
 # Hi there 👋
 I am Max and I am a certified vibe coder (until I learn to code properly)
 ## I am learning 🌱
-The Solana CLI and it's Ecosystem, backend development and Web3 dApps!
+The `Solana CLI` and it's Ecosystem, backend development and Web3 dApps!
+## What i am good at ⚡
+MacOS (`zsh` mainly), basics of `Solana CLI` and very good at Roblox's `Luau`
 ## I'm looking to collaborate on..
 - Web3
 - Solana
+- projects containing `Lua` (or `Luau`)
 > related things
 
 <!--
