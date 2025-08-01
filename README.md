@@ -8,7 +8,7 @@ MacOS (`zsh` mainly), basics of `Solana CLI` and very good at Roblox's `Luau`
 - Web3
 - Solana
 - projects containing `Lua` (or `Luau`)
-> related things
+
 
 <!--
 **Maxwell317898/Maxwell317898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
