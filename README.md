@@ -1,13 +1,14 @@
 # Hi there 👋
 I am Max and I am a certified vibe coder (until I learn to code properly)
 ## I am learning 🌱
-The `Solana CLI` and it's Ecosystem, backend development and Web3 dApps!
+Html, Css, Js web development and docker
 ## What i am good at ⚡
 CLI (bash mainly)
+Prototyping
 ## I'm looking to collaborate on..
 - RPi projects
 - CLI interfaces
-- projects containing `Lua` (or `Luau`)
+- Websites
 
 
 <!--
