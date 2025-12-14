@@ -1,5 +1,9 @@
 # Hi there 👋
-I am Max and I am a certified vibe coder (until I learn to code properly)
+>[!NOTE]
+>Some of my better and more maintained projects are in [No Development](https://github.com/no-development-group)
+
+<br>
+
 ## I am learning 🌱
 Html, Css, Js web development and docker
 ## What i am good at ⚡
